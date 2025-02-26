@@ -1,0 +1,84 @@
+[
+  {
+    "_id": "65ba161c12071eee98159410",
+    "user": "65b4bb63d075ae5f0ab3d127",
+    "products": [
+      {
+        "product": "65b9d7ec03f7a5c05f8e6e78",
+        "quantity": 3,
+        "price": 12000,
+        "_id": "65ba161c12071eee98159411"
+      },
+      {
+        "product": "65b9d83c03f7a5c05f8e6e80",
+        "quantity": 3,
+        "price": 25000,
+        "_id": "65ba161c12071eee98159412"
+      }
+    ],
+    "total": 150000,
+    "status": "Completed",
+    "createdAt": "2025-02-20T18:23:24.371Z",
+    "updatedAt": "2025-02-20T18:24:10.883Z"
+  },
+  {
+    "_id": "65ba165912071eee9815942e",
+    "user": "65b4bb63d075ae5f0ab3d127",
+    "products": [
+      {
+        "product": "65b9d7ec03f7a5c05f8e6e78",
+        "quantity": 2,
+        "price": 15000,
+        "_id": "65ba165912071eee9815942f"
+      },
+      {
+        "product": "65b9d83c03f7a5c05f8e6e80",
+        "quantity": 2,
+        "price": 35000,
+        "_id": "65ba165912071eee98159430"
+      }
+    ],
+    "total": 100000,
+    "status": "Pending",
+    "createdAt": "2025-02-20T18:24:25.691Z",
+    "updatedAt": "2025-02-20T18:24:25.691Z"
+  },
+  {
+    "_id": "65bb670035fccb66f47a21bb",
+    "user": "65ba620e6938b5abcc1f41a3",
+    "products": [
+      {
+        "product": "65b9d7ec03f7a5c05f8e6e78",
+        "quantity": 3,
+        "price": 13000,
+        "_id": "65bb670035fccb66f47a21bc"
+      }
+    ],
+    "total": 39000,
+    "status": "Completed",
+    "createdAt": "2025-02-21T18:20:48.725Z",
+    "updatedAt": "2025-02-21T18:20:48.725Z"
+  },
+  {
+    "_id": "65bb719a49166ef91054298d",
+    "user": "65ba620e6938b5abcc1f41a3",
+    "products": [
+      {
+        "product": "65b9d7ec03f7a5c05f8e6e78",
+        "quantity": 2,
+        "price": 13000,
+        "_id": "65bb719a49166ef91054298e"
+      },
+      {
+        "product": "65b9d83c03f7a5c05f8e6e80",
+        "quantity": 2,
+        "price": 28000,
+        "_id": "65bb719a49166ef91054298f"
+      }
+    ],
+    "total": 82000,
+    "status": "Completed",
+    "createdAt": "2025-02-21T19:06:02.686Z",
+    "updatedAt": "2025-02-21T19:06:02.686Z"
+  }
+]

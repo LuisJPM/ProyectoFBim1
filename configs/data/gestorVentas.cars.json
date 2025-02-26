@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "65cf81a239bd72e825d8b6c4",
+    "user": "63a7b1e023f7a6d8c2d1d89b",
+    "products": [
+      {
+        "product": "64bcf3f23a6e7d2a389cb87f",
+        "quantity": 3,
+        "_id": "65cf81a239bd72e825d8b6c5"
+      }
+    ],
+    "status": true,
+    "createdAt": "2025-02-20T14:32:08.567Z",
+    "updatedAt": "2025-02-20T14:32:08.567Z"
+  }
+]

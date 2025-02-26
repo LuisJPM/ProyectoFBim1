@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "65b9dcb608494961918b9636",
+    "name": "Tecnología",
+    "description": "Categoría para productos tecnológicos",
+    "productos": [
+      {
+        "$oid": "65b9d7ec03f7a5c05f8f6e78"
+      },
+      {
+        "$oid": "65b9d83c03f7a5c05f8e7e80"
+      }
+    ],
+    "status": true,
+    "createdAt": "2025-02-18T14:10:08.326Z",
+    "updatedAt": "2025-02-18T14:10:08.326Z"
+  },
+  {
+    "_id": "65b9dc3408494961918b9645",
+    "name": "Bebidas",
+    "description": "Categoría de productos de bebidas",
+    "productos": [
+      {
+        "$oid": "65b9dcd008494961918a965f"
+      },
+      {
+        "$oid": "65b9dce108494961918a9662"
+      }
+    ],
+    "status": true,
+    "createdAt": "2025-02-18T14:12:30.164Z",
+    "updatedAt": "2025-02-18T14:15:33.290Z"
+  },
+  {
+    "_id": "65b9dca008494961918b9659",
+    "name": "Hogar",
+    "description": "Categoría para productos del hogar y decoración",
+    "productos": [
+      {
+        "$oid": "65b9dbe908494961918a963c"
+      },
+      {
+        "$oid": "65b9dc0608494961918a963f"
+      }
+    ],
+    "status": false,
+    "createdAt": "2025-02-18T14:14:05.794Z",
+    "updatedAt": "2025-02-18T14:17:05.040Z"
+  },
+  {
+    "_id": "65b9dd5608494961918b9675",
+    "name": "No Clasificado",
+    "description": "Categoría para productos no clasificados",
+    "productos": [
+      {
+        "$oid": "65b9dbe908494961918a963c"
+      },
+      {
+        "$oid": "65b9dc0608494961918a963f"
+      }
+    ],
+    "status": true,
+    "createdAt": "2025-02-18T14:17:20.185Z",
+    "updatedAt": "2025-02-18T14:17:20.186Z"
+  }
+]

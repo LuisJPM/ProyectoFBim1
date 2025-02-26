@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "65b9d7ec03f7a5c05f8e6e78",
+    "object": "Smartphone",
+    "name": "Galaxy Z Flip",
+    "description": "Smartphone plegable de gama alta.",
+    "price": 12000,
+    "stock": 40,
+    "sold": 10,
+    "outOfStock": false,
+    "estado": true,
+    "createdAt": "2025-02-20T13:58:04.709Z",
+    "updatedAt": "2025-02-21T19:06:02.689Z"
+  },
+  {
+    "_id": "65b9d83c03f7a5c05f8e6e80",
+    "object": "TV",
+    "name": "LG OLED",
+    "description": "Televisor 4K OLED de gama alta.",
+    "price": 35000,
+    "stock": 45,
+    "sold": 5,
+    "outOfStock": false,
+    "estado": true,
+    "createdAt": "2025-02-20T13:59:24.402Z",
+    "updatedAt": "2025-02-21T19:06:02.696Z"
+  },
+  {
+    "_id": "65b9dbe908494961918a963c",
+    "object": "Kitchen",
+    "name": "Batidora",
+    "description": "Batidora de alta potencia.",
+    "price": 3500,
+    "stock": 60,
+    "sold": 2,
+    "outOfStock": false,
+    "estado": true,
+    "createdAt": "2025-02-20T14:15:05.171Z",
+    "updatedAt": "2025-02-20T14:15:05.171Z"
+  },
+  {
+    "_id": "65b9dc0608494961918a963f",
+    "object": "Kitchen",
+    "name": "Ollas",
+    "description": "Juego de ollas de acero inoxidable.",
+    "price": 1500,
+    "stock": 50,
+    "sold": 3,
+    "outOfStock": false,
+    "estado": true,
+    "createdAt": "2025-02-20T14:15:34.124Z",
+    "updatedAt": "2025-02-20T17:41:21.025Z"
+  },
+  {
+    "_id": "65b9dcd008494961918a965f",
+    "object": "Fruit",
+    "name": "Plátano",
+    "description": "Fruta rica en potasio.",
+    "price": 6,
+    "stock": 45,
+    "sold": 4,
+    "outOfStock": false,
+    "estado": true,
+    "createdAt": "2025-02-20T14:18:56.617Z",
+    "updatedAt": "2025-02-20T18:20:29.247Z"
+  },
+  {
+    "_id": "65b9dce108494961918a9662",
+    "object": "Vegetable",
+    "name": "Arroz",
+    "description": "Fuente esencial de carbohidratos.",
+    "price": 6,
+    "stock": 50,
+    "sold": 0,
+    "outOfStock": false,
+    "estado": true,
+    "createdAt": "2025-02-20T14:19:13.429Z",
+    "updatedAt": "2025-02-20T14:19:13.429Z"
+  }
+]
